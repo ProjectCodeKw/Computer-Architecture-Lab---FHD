@@ -15,7 +15,7 @@ A sequence of RISC-V instructions was used to test the modified pipeline, includ
 
 ## Implementation Details
 
-* The architecture implemented limits forwarding paths, allowing only Memory stage to Execute stage and Write-Back stage to Execute stage forwarding[cite: 11]. *(Self-correction based on prior conversation context: The final implementation discussed allowed EX->ID and MEM->EX forwarding)*.
+* The architecture implemented limits forwarding paths, allowing only Memory stage and Write-Back stage to do forwarding[cite: 11]. *(Self-correction based on prior conversation context: The final implementation discussed allowed EX->ID and MEM->EX forwarding)*.
 * The Verilog code for the Forwarding and Hazard Detection unit (`FHD.v`) was modified, with the full code commented out to focus on running only the new modifications[cite: 22].
 
 ## Results Summary
