@@ -1,4 +1,4 @@
-# CpE-469 Lab Assignment #2: RISC-V Pipelined Datapath and Hazard Handling
+# RISC-V Pipelined Datapath and Hazard Handling
 
 ## Objective
 
