@@ -25,8 +25,7 @@ A sequence of RISC-V instructions was used to test the modified pipeline, includ
 * **Debugging:** Outputs `ALUout` & `ALUoutM` were used for debugging and validation during simulation.
 
 ## Conclusion
-
-The assignment successfully demonstrated the impact of data hazards in a pipelined RISC-V processor. Modifying the forwarding and hazard detection unit, specifically for `ADDI` instructions, improved execution efficiency. Testing with custom RISC-V code reinforced the importance of robust hazard handling for smooth pipeline operation. Further improvements are possible to enhance the processor's capabilities.
+RISC-V GOES VOOM VOOM
 
 ## Resources
 
